@@ -1,0 +1,3 @@
+[submodule "solar-system-gitea"]
+	path = solar-system-gitea
+	url = https://github.com/taruag/mid-level-jenkins
